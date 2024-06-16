@@ -1,1 +1,15 @@
 redis:6.2.14-alpine3.20
+adolfintel/speedtest
+centos
+alpine
+dreamacro/clash
+emby/embyserver
+haishanh/yacd
+hslr/sun-panel
+iyuucn/iyuuplus
+linuxserver/qbittorrent	
+jxxghp/moviepilot
+linuxserver/resilio-sync
+xiaoyaliu/alist	
+linuxserver/transmission
+ubuntu
